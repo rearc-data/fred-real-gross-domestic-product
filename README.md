@@ -5,7 +5,7 @@
 Real Gross Domestic Product | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-dze2zdbq3mxpy](https://aws.amazon.com/marketplace/pp/prodview-dze2zdbq3mxpy).
 
 ## Main Overview
 
